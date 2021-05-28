@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-
-[!Dogcubes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dogcube)](https://github.com/anuraghazra/github-readme-stats)
+<detail
+[!Dogcubes's GitHub stats](github-readme-stats-dogcube51.vercel.app/api?username=Dogcube)](https://github.com/anuraghazra/github-readme-stats)
