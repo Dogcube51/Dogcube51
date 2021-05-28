@@ -1,4 +1,5 @@
 ### Hi there 👋
 
 
-[![Dogcube's GitHub stats](github-readme-stats-1-coral.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="="https://github-readme-stats.vercel.app/api/?username=Dogcube&count_private=true&include_all_commits" />
+
